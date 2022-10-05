@@ -1,1 +1,1 @@
-# python_basics_pratice_codes
+basics of python
